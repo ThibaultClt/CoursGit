@@ -12,6 +12,7 @@ dsqd
 <<<<<<< HEAD
 =======
 dsqd
+<<<<<<< HEAD
 qsdqsd
 <<<<<<< HEAD
 >>>>>>> dd95ac4 (ptite modif)
@@ -38,5 +39,14 @@ blablabla
 blablabla
 encore
 >>>>>>> d67b42b (Encore)
+<<<<<<< HEAD
 >>>>>>> 664a381 (Encore)
+<<<<<<< HEAD
 >>>>>>> 2f93eb6 (Encore)
+=======
+=======
+=======
+qsdqsd
+>>>>>>> 274e747 (encore)
+>>>>>>> 795eccd (encore)
+>>>>>>> e2db23a (encore)
