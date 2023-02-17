@@ -1,6 +1,7 @@
 Premiere modif
 Modif branche 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 blablabla
 encore
 fdkfsd
@@ -27,5 +28,15 @@ sd
 =======
 blablabla
 >>>>>>> 1f4acfa (ptite modif 2)
+<<<<<<< HEAD
 >>>>>>> 4eb15fd (ptite modif 2)
+<<<<<<< HEAD
 >>>>>>> e5459e1 (ptite modif 2)
+=======
+=======
+=======
+blablabla
+encore
+>>>>>>> d67b42b (Encore)
+>>>>>>> 664a381 (Encore)
+>>>>>>> 2f93eb6 (Encore)
