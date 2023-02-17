@@ -7,7 +7,13 @@ fdkfsd
 dsqdq
 <<<<<<< HEAD
 dsqd
+<<<<<<< HEAD
 =======
 dsqd
 qsdqsd
 >>>>>>> dd95ac4 (ptite modif)
+=======
+qsdqsd
+
+sd
+>>>>>>> c9a586c (ouais)
