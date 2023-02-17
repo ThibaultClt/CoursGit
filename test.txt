@@ -5,4 +5,9 @@ encore
 fdkfsd
 
 dsqdq
+<<<<<<< HEAD
 dsqd
+=======
+dsqd
+qsdqsd
+>>>>>>> dd95ac4 (ptite modif)
