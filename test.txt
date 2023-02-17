@@ -1,5 +1,6 @@
 Premiere modif
 Modif branche 1
+<<<<<<< HEAD
 blablabla
 encore
 fdkfsd
@@ -11,9 +12,20 @@ dsqd
 =======
 dsqd
 qsdqsd
+<<<<<<< HEAD
 >>>>>>> dd95ac4 (ptite modif)
 =======
 qsdqsd
 
 sd
 >>>>>>> c9a586c (ouais)
+=======
+<<<<<<< HEAD
+
+sd
+=======
+=======
+blablabla
+>>>>>>> 1f4acfa (ptite modif 2)
+>>>>>>> 4eb15fd (ptite modif 2)
+>>>>>>> e5459e1 (ptite modif 2)
